@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         Fundera också på - vilka tillstånd gick appen mellan?
      */
 
+    // Körs om man startar appen /Peter
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
